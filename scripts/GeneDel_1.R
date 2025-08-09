@@ -55,7 +55,7 @@ chord_data_filtered$log.Maximum.longevity..yrs. <- log(chord_data_filtered$Maxim
 ## Creating body mass: max longevity ratio
 chord_data_filtered$log.bodymass.to.longevity.ratio <- log(chord_data_filtered$Body.mass..g./chord_data_filtered$Maximum.longevity..yrs.)
 ## Plotting
-ggplot(chord_data_filtered)+geom_boxplot(shape = 4, aes(Class,bodymass.to.longevity.ratio))+theme_bw()+
+ggplot(chord_data_filtered)+geom_boxplot(shape = 4, aes(Class,log.bodymass.to.longevity.ratio))+theme_bw()+
   theme(axis.text.x = element_text(angle = 45, hjust = 1), panel.grid = element_blank())
 ## Cart. fishes most variable assumed due to e.g. Greenland shark
 ## Checking by top 10 highest longevities
