@@ -1,0 +1,11 @@
+﻿GeneID,Species,Gene,Tissue,Description,Chromosome,Start_position,End_position,Exon_count,Reference
+335,"Homo sapiens",APOA1,Bone,"apolipoprotein A1",11,116835751,116837950,4,10.1182/blood-2008-06-161794
+627,"Homo sapiens",BDNF,Bone,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1016/j.brainres.2009.01.056
+650,"Homo sapiens",BMP2,Bone,"bone morphogenetic protein 2",20,6767686,6780246,3,10.1038/nature06457
+652,"Homo sapiens",BMP4,Bone,"bone morphogenetic protein 4",14,53949736,53956891,6,10.1038/nature06457
+796,"Homo sapiens",CALCA,Bone,"calcitonin related polypeptide alpha",11,14966668,14972361,7,10.1097/BRS.0b013e3181b04e52
+860,"Homo sapiens",RUNX2,Bone,"RUNX family transcription factor 2",6,45328330,45551082,10,10.1007/s12015-011-9337-4
+1440,"Homo sapiens",CSF3,Bone,"colony stimulating factor 3",17,40015440,40017813,4,10.1053/j.gastro.2007.05.018
+2000,"Homo sapiens",ELF4,Bone,"E74 like ETS transcription factor 4",X,130063955,130110891,11,10.1161/ATVBAHA.111.224436
+2247,"Homo sapiens",FGF2,Bone,"fibroblast growth factor 2",4,122826708,122898236,3,10.1016/j.bbrc.2006.02.171
+2778,"Homo sapiens",GNAS,Bone,"GNAS complex locus",20,58839681,58911192,23,10.1007/s11999-012-2475-4

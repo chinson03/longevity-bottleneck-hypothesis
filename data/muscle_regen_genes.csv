@@ -1,0 +1,11 @@
+﻿GeneID,Species,Gene,Tissue,Description,Chromosome,Start_position,End_position,Exon_count,Reference
+177,"Homo sapiens",AGER,Muscle,"advanced glycosylation end-product specific receptor",6,32180969,32184380,11,10.1371/journal.pone.0028700
+387,"Homo sapiens",RHOA,Muscle,"ras homolog family member A",3,49359145,49411976,7,10.1096/fj.13-233460
+627,"Homo sapiens",BDNF,Muscle,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1091/mbc.e10-02-0154
+799,"Homo sapiens",CALCR,Muscle,"calcitonin receptor",7,93424486,93574724,17,10.1007/s10735-012-9421-3
+827,"Homo sapiens",CAPN6,Muscle,"calpain 6",X,111245099,111270483,13,10.1371/journal.pgen.1003668
+873,"Homo sapiens",CBR1,Muscle,"carbonyl reductase 1",21,36070024,36073164,3,10.1016/j.biocel.2013.05.025
+894,"Homo sapiens",CCND2,Muscle,"cyclin D2",12,4273762,4305353,5,10.1093/hmg/ddt184
+947,"Homo sapiens",CD34,Muscle,"CD34 molecule",1,207880972,207911125,8,10.1242/jcs.00110
+1025,"Homo sapiens",CDK9,Muscle,"cyclin dependent kinase 9",9,127786034,127790792,7,10.1002/jcp.21361
+1291,"Homo sapiens",COL6A1,Muscle,"collagen type VI alpha 1 chain",21,45981770,46005048,35,10.1038/ncomms2964

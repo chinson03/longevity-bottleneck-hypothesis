@@ -1,0 +1,7 @@
+﻿GeneID,Species,Gene,Tissue,Description,Chromosome,Start_position,End_position,Exon_count,Reference
+23135,"Homo sapiens",KDM6B,Tooth,"lysine demethylase 6B",17,7834210,7854796,28,10.1038/ijos.2013.77
+11732,"Mus musculus",Ank,Tooth,"ANKH inorganic pyrophosphate transport regulator",15,27466763,27594995,17,10.1902/jop.2011.110103
+14165,"Mus musculus",Fgf10,Tooth,"fibroblast growth factor 10",13,118806327,118928651,11,10.1128/MCB.01439-10
+21812,"Mus musculus",Tgfbr1,Tooth,"transforming growth factor beta receptor 1",4,47353222,47414931,20,10.1128/MCB.01439-10
+24471,"Rattus norvegicus",Hspb1,Tooth,"heat shock protein family B (small) member 1",12,23839399,23841049,3,10.1093/jmicro/52.6.581
+300260,"Rattus norvegicus",Sp7,Tooth,"Sp7 transcription factor",7,143958858,143967484,4,10.1007/s00418-013-1076-y
