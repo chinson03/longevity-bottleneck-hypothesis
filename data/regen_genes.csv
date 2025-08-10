@@ -1,0 +1,554 @@
+﻿GeneID,Species,Gene,Tissue,Description,Chromosome,Start_position,End_position,Exon_count,Reference
+116,"Homo sapiens",ADCYAP1,Nerve,"adenylate cyclase activating polypeptide 1",18,904384,912172,6,10.1152/jn.00288.2003
+133,"Homo sapiens",ADM,Endothelia,adrenomedullin,11,10305073,10307397,4,10.1016/s0014-5793(03)00484-8
+133,"Homo sapiens",ADM,Epithelia,adrenomedullin,11,10305073,10307397,4,10.1210/en.2010-1256
+177,"Homo sapiens",AGER,Muscle,"advanced glycosylation end-product specific receptor",6,32180969,32184380,11,10.1371/journal.pone.0028700
+177,"Homo sapiens",AGER,Nerve,"advanced glycosylation end-product specific receptor",6,32180969,32184380,11,10.1002/jcp.21474
+182,"Homo sapiens",JAG1,"Spinal cord","jagged canonical Notch ligand 1",20,10637684,10673999,26,10.1089/neu.2011.2139
+183,"Homo sapiens",AGT,Endothelia,angiotensinogen,1,230702523,230745583,6,10.1152/ajpcell.00306.2010
+207,"Homo sapiens",AKT1,Epithelia,"AKT serine/threonine kinase 1",14,104769349,104795748,15,10.1210/en.2008-1333
+207,"Homo sapiens",AKT1,Intestine,"AKT serine/threonine kinase 1",14,104769349,104795748,15,10.1016/j.devcel.2010.07.015
+207,"Homo sapiens",AKT1,Nerve,"AKT serine/threonine kinase 1",14,104769349,104795748,15,10.1016/j.bbrc.2013.12.037
+207,"Homo sapiens",AKT1,Pancreas,"AKT serine/threonine kinase 1",14,104769349,104795748,15,10.1053/j.gastro.2005.03.016
+231,"Homo sapiens",AKR1B1,Nerve,"aldo-keto reductase family 1 member B",7,134442350,134459239,11,10.1097/NEN.0b013e3181d26487
+284,"Homo sapiens",ANGPT1,Liver,"angiopoietin 1",8,107249482,107497918,10,10.1006/bbrc.2001.5548
+285,"Homo sapiens",ANGPT2,Liver,"angiopoietin 2",8,6499632,6563245,9,10.1126/science.1244880
+317,"Homo sapiens",APAF1,Misc,"apoptotic peptidase activating factor 1",12,98645141,98735433,28,10.1371/journal.pone.0006634
+332,"Homo sapiens",BIRC5,Liver,"baculoviral IAP repeat containing 5",17,78214253,78225635,6,10.1016/s0006-291x(02)02128-9
+335,"Homo sapiens",APOA1,Bone,"apolipoprotein A1",11,116835751,116837950,4,10.1182/blood-2008-06-161794
+335,"Homo sapiens",APOA1,Endothelia,"apolipoprotein A1",11,116835751,116837950,4,10.1161/ATVBAHA.107.158741
+348,"Homo sapiens",APOE,Nerve,"apolipoprotein E",19,44905796,44909393,6,10.1093/hmg/ddr147
+355,"Homo sapiens",FAS,Liver,"Fas cell surface death receptor",10,88968429,89017059,15,10.1002/hep.20812
+362,"Homo sapiens",AQP5,Epithelia,"aquaporin 5",12,49961855,49965682,5,10.1016/j.yexcr.2007.02.035
+367,"Homo sapiens",AR,Prostate,"androgen receptor",X,67544021,67730619,11,10.1128/MCB.25.12.4841-4852.2005
+374,"Homo sapiens",AREG,Liver,amphiregulin,4,74445136,74455005,6,10.1016/j.jhep.2009.06.030
+387,"Homo sapiens",RHOA,Muscle,"ras homolog family member A",3,49359145,49411976,7,10.1096/fj.13-233460
+429,"Homo sapiens",ASCL1,Retina,"achaete-scute family bHLH transcription factor 1",12,102957674,102960513,2,10.1038/ncb2115
+467,"Homo sapiens",ATF3,Nerve,"activating transcription factor 3",1,212565407,212620777,7,10.1016/j.molbrainres.2003.09.014
+581,"Homo sapiens",BAX,Nerve,"BCL2 associated X, apoptosis regulator",19,48954825,48961798,7,10.1016/s1044-7431(03)00219-7
+595,"Homo sapiens",CCND1,Kidney,"cyclin D1",11,69641156,69654474,5,10.1111/nep.12114
+595,"Homo sapiens",CCND1,Liver,"cyclin D1",11,69641156,69654474,5,10.1152/ajpgi.00471.2009
+596,"Homo sapiens",BCL2,Nerve,"BCL2 apoptosis regulator",18,63123346,63320280,6,10.1016/j.brainres.2004.05.107
+627,"Homo sapiens",BDNF,Bone,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1016/j.brainres.2009.01.056
+627,"Homo sapiens",BDNF,Misc,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1679/aohc.66.183
+627,"Homo sapiens",BDNF,Muscle,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1091/mbc.e10-02-0154
+627,"Homo sapiens",BDNF,Nerve,"brain derived neurotrophic factor",11,27654893,27722030,12,10.1016/s0014-4886(03)00183-3
+637,"Homo sapiens",BID,Liver,"BH3 interacting domain death agonist",22,17734138,17774665,8,10.1002/hep.23672
+637,"Homo sapiens",BID,Lymph,"BH3 interacting domain death agonist",22,17734138,17774665,8,10.1016/j.exphem.2011.06.004
+650,"Homo sapiens",BMP2,Bone,"bone morphogenetic protein 2",20,6767686,6780246,3,10.1038/nature06457
+650,"Homo sapiens",BMP2,Intestine,"bone morphogenetic protein 2",20,6767686,6780246,3,10.1016/j.celrep.2013.05.040
+652,"Homo sapiens",BMP4,Bone,"bone morphogenetic protein 4",14,53949736,53956891,6,10.1038/nature06457
+652,"Homo sapiens",BMP4,Liver,"bone morphogenetic protein 4",14,53949736,53956891,6,10.1152/ajpgi.00105.2012
+652,"Homo sapiens",BMP4,Lung,"bone morphogenetic protein 4",14,53949736,53956891,6,10.1016/j.cellsig.2010.10.010
+652,"Homo sapiens",BMP4,Misc,"bone morphogenetic protein 4",14,53949736,53956891,6,10.1242/dev.00710
+655,"Homo sapiens",BMP7,Cartilage,"bone morphogenetic protein 7",20,57168753,57266641,7,10.1186/1471-2474-11-170
+655,"Homo sapiens",BMP7,Kidney,"bone morphogenetic protein 7",20,57168753,57266641,7,10.1080/01926230490440925
+706,"Homo sapiens",TSPO,Nerve,"translocator protein",22,43151559,43163242,5,10.1016/j.mcn.2005.07.010
+718,"Homo sapiens",C3,Liver,"complement C3",19,6677704,6720650,41,10.1084/jem.20030374
+718,"Homo sapiens",C3,Retina,"complement C3",19,6677704,6720650,41,10.1038/ncomms3312
+794,"Homo sapiens",CALB2,Retina,"calbindin 2",16,71358723,71390438,10,10.14670/HH-19.1193
+796,"Homo sapiens",CALCA,Bone,"calcitonin related polypeptide alpha",11,14966668,14972361,7,10.1097/BRS.0b013e3181b04e52
+799,"Homo sapiens",CALCR,Muscle,"calcitonin receptor",7,93424486,93574724,17,10.1007/s10735-012-9421-3
+827,"Homo sapiens",CAPN6,Muscle,"calpain 6",X,111245099,111270483,13,10.1371/journal.pgen.1003668
+841,"Homo sapiens",CASP8,Liver,"caspase 8",2,201233443,201287711,15,10.1002/hep.26538
+860,"Homo sapiens",RUNX2,Bone,"RUNX family transcription factor 2",6,45328330,45551082,10,10.1007/s12015-011-9337-4
+860,"Homo sapiens",RUNX2,Epithelia,"RUNX family transcription factor 2",6,45328330,45551082,10,10.1007/s12015-011-9337-4
+861,"Homo sapiens",RUNX1,Epithelia,"RUNX family transcription factor 1",21,34787801,35049334,13,10.1167/iovs.13-11791
+863,"Homo sapiens",CBFA2T3,Intestine,"CBFA2/RUNX1 partner transcriptional co-repressor 3",16,88874858,88977207,14,10.1136/gutjnl-2011-301439
+864,"Homo sapiens",RUNX3,Epithelia,"RUNX family transcription factor 3",1,24899511,24965158,7,10.1167/iovs.13-11791
+864,"Homo sapiens",RUNX3,Misc,"RUNX family transcription factor 3",1,24899511,24965158,7,10.1007/s00441-010-1011-7
+873,"Homo sapiens",CBR1,Muscle,"carbonyl reductase 1",21,36070024,36073164,3,10.1016/j.biocel.2013.05.025
+894,"Homo sapiens",CCND2,Muscle,"cyclin D2",12,4273762,4305353,5,10.1093/hmg/ddt184
+898,"Homo sapiens",CCNE1,Liver,"cyclin E1",19,29811991,29824312,12,10.1007/s12272-009-1419-3
+947,"Homo sapiens",CD34,Muscle,"CD34 molecule",1,207880972,207911125,8,10.1242/jcs.00110
+947,"Homo sapiens",CD34,"Stem cell","CD34 molecule",1,207880972,207911125,8,10.1089/scd.2006.15.839
+960,"Homo sapiens",CD44,Cartilage,"CD44 molecule (Indian blood group)",11,35139168,35232402,21,10.1152/japplphysiol.01132.2012
+960,"Homo sapiens",CD44,Kidney,"CD44 molecule (Indian blood group)",11,35139168,35232402,21,10.1038/sj.ki.5002334
+999,"Homo sapiens",CDH1,"Hair cell","cadherin 1",16,68737292,68835537,16,10.1006/excr.2002.5574
+1017,"Homo sapiens",CDK2,Liver,"cyclin dependent kinase 2",12,55966830,55972789,8,10.1002/hep.26584
+1019,"Homo sapiens",CDK4,Pancreas,"cyclin dependent kinase 4",12,57747727,57752310,8,10.4049/jimmunol.180.2.1189
+1025,"Homo sapiens",CDK9,Muscle,"cyclin dependent kinase 9",9,127786034,127790792,7,10.1002/jcp.21361
+1026,"Homo sapiens",CDKN1A,Liver,"cyclin dependent kinase inhibitor 1A",6,36676463,36687332,6,10.1101/gad.390506
+1026,"Homo sapiens",CDKN1A,Nerve,"cyclin dependent kinase inhibitor 1A",6,36676463,36687332,6,10.1084/jem.20031385
+1027,"Homo sapiens",CDKN1B,Pancreas,"cyclin dependent kinase inhibitor 1B",12,12717368,12722369,3,10.2337/db06-0249
+1029,"Homo sapiens",CDKN2A,Misc,"cyclin dependent kinase inhibitor 2A",9,21967752,21995324,8,10.1016/j.stem.2010.05.022
+1029,"Homo sapiens",CDKN2A,Pancreas,"cyclin dependent kinase inhibitor 2A",9,21967752,21995324,8,10.1155/2014/873679
+1050,"Homo sapiens",CEBPA,Epithelia,"CCAAT enhancer binding protein alpha",19,33299934,33302564,1,10.1002/dvdy.23773
+1051,"Homo sapiens",CEBPB,Epithelia,"CCAAT enhancer binding protein beta",20,50190583,50192690,1,10.1002/dvdy.23773
+1051,"Homo sapiens",CEBPB,Liver,"CCAAT enhancer binding protein beta",20,50190583,50192690,1,10.1128/MCB.23.4.1251-1259.2003
+1051,"Homo sapiens",CEBPB,Nerve,"CCAAT enhancer binding protein beta",20,50190583,50192690,1,10.1016/j.mcn.2005.04.004
+1052,"Homo sapiens",CEBPD,Nerve,"CCAAT enhancer binding protein delta",8,47736913,47738164,1,10.1016/j.expneurol.2012.10.012
+1080,"Homo sapiens",CFTR,Epithelia,"CF transmembrane conductance regulator",7,117480025,117668665,27,10.1016/j.yexcr.2007.02.035
+1191,"Homo sapiens",CLU,Kidney,clusterin,8,27596917,27614700,11,10.1152/ajprenal.00410.2013
+1191,"Homo sapiens",CLU,Nerve,clusterin,8,27596917,27614700,11,10.1523/JNEUROSCI.3822-13.2014
+1191,"Homo sapiens",CLU,Pancreas,clusterin,8,27596917,27614700,11,10.1002/dvdy.22556
+1236,"Homo sapiens",CCR7,Kidney,"C-C motif chemokine receptor 7",17,40553769,40565472,5,10.1186/1471-2369-5-8
+1268,"Homo sapiens",CNR1,Liver,"cannabinoid receptor 1",6,88139864,88167349,8,10.1073/pnas.1017689108
+1270,"Homo sapiens",CNTF,Retina,"ciliary neurotrophic factor",11,58622665,58625733,2,10.1371/journal.pone.0009495
+1280,"Homo sapiens",COL2A1,Cartilage,"collagen type II alpha 1 chain",12,47972967,48006212,57,10.1093/ejo/cjp163
+1280,"Homo sapiens",COL2A1,"Stem cell","collagen type II alpha 1 chain",12,47972967,48006212,57,10.1016/j.joca.2012.06.002
+1291,"Homo sapiens",COL6A1,Muscle,"collagen type VI alpha 1 chain",21,45981770,46005048,35,10.1038/ncomms2964
+1300,"Homo sapiens",COL10A1,Cartilage,"collagen type X alpha 1 chain",6,116118909,116219937,6,10.1093/ejo/cjp163
+1382,"Homo sapiens",CRABP2,Nerve,"cellular retinoic acid binding protein 2",1,156699606,156705784,5,10.1111/j.1460-9568.2007.05951.x
+1385,"Homo sapiens",CREB1,Muscle,"cAMP responsive element binding protein 1",2,207529943,207605988,13,10.1371/journal.pone.0024714
+1387,"Homo sapiens",CREBBP,Nerve,"CREB binding protein",16,3725054,3880727,33,10.1038/cdd.2008.175
+1392,"Homo sapiens",CRH,Skin,"corticotropin releasing hormone",8,66176376,66178464,2,10.1371/journal.pone.0021654
+1395,"Homo sapiens",CRHR2,Intestine,"corticotropin releasing hormone receptor 2",7,30649406,30700103,16,10.1002/jcp.20792
+1401,"Homo sapiens",CRP,Epithelia,"C-reactive protein",1,159712289,159714589,3,10.1042/CS20130471
+1432,"Homo sapiens",MAPK14,Cartilage,"mitogen-activated protein kinase 14",6,36027711,36122964,22,10.1111/jcmm.12034
+1432,"Homo sapiens",MAPK14,"Salivary gland","mitogen-activated protein kinase 14",6,36027711,36122964,22,10.1111/j.1432-0436.2007.00251.x
+1435,"Homo sapiens",CSF1,Kidney,"colony stimulating factor 1",1,109910506,109930992,11,10.1172/JCI60363
+1435,"Homo sapiens",CSF1,Liver,"colony stimulating factor 1",1,109910506,109930992,11,10.1016/j.jss.2009.08.008
+1440,"Homo sapiens",CSF3,Bone,"colony stimulating factor 3",17,40015440,40017813,4,10.1053/j.gastro.2007.05.018
+1440,"Homo sapiens",CSF3,Heart,"colony stimulating factor 3",17,40015440,40017813,4,10.1016/j.ijcard.2005.06.043
+1440,"Homo sapiens",CSF3,Muscle,"colony stimulating factor 3",17,40015440,40017813,4,10.1084/jem.20101059
+1444,"Homo sapiens",CSHL1,Liver,"chorionic somatomammotropin hormone like 1",17,63909602,63911280,4,10.1210/en.2004-0655
+1462,"Homo sapiens",VCAN,Nerve,versican,5,83471744,83582302,15,10.1210/en.2004-0655
+1462,"Homo sapiens",VCAN,"Spinal cord",versican,5,83471744,83582302,15,10.1016/j.mcn.2003.10.009
+1464,"Homo sapiens",CSPG4,"Spinal cord","chondroitin sulfate proteoglycan 4",15,75674322,75712848,10,10.1186/1471-2377-9-32
+1465,"Homo sapiens",CSRP1,"Spinal cord","cysteine and glycine rich protein 1",1,201483530,201507123,8,10.1111/j.1460-9568.2011.07958.x
+1499,"Homo sapiens",CTNNB1,"Hair cell","catenin beta 1",3,41199422,41240445,19,10.1016/j.devcel.2010.01.016
+1499,"Homo sapiens",CTNNB1,Liver,"catenin beta 1",3,41199422,41240445,19,10.1002/hep.21523
+1499,"Homo sapiens",CTNNB1,Muscle,"catenin beta 1",3,41199422,41240445,19,10.1161/01.ATV.0000193569.12490.4b
+1499,"Homo sapiens",CTNNB1,Nerve,"catenin beta 1",3,41199422,41240445,19,10.1523/JNEUROSCI.4915-13.2014
+1499,"Homo sapiens",CTNNB1,"Salivary gland","catenin beta 1",3,41199422,41240445,19,10.1089/scd.2009.0499
+1525,"Homo sapiens",CXADR,Heart,"CXADR Ig-like cell adhesion molecule",21,17513016,17636213,10,10.1016/j.forsciint.2011.05.010
+1536,"Homo sapiens",CYBB,Liver,"cytochrome b-245 beta chain",X,37780059,37813461,13,10.1016/j.jss.2006.05.039
+1581,"Homo sapiens",CYP7A1,Liver,"cytochrome P450 family 7 subfamily A member 1",8,58490178,58500163,6,10.1210/me.2008-0198
+1592,"Homo sapiens",CYP26A1,Lens,"cytochrome P450 family 26 subfamily A member 1",10,93073475,93077885,8,10.1016/j.ydbio.2013.12.036
+1593,"Homo sapiens",CYP27A1,Liver,"cytochrome P450 family 27 subfamily A member 1",2,218781733,218815293,9,10.1016/j.jhep.2010.12.037
+1594,"Homo sapiens",CYP27B1,Muscle,"cytochrome P450 family 27 subfamily B member 1",12,57762334,57767078,9,10.1152/ajpcell.00014.2012
+1605,"Homo sapiens",DAG1,Epithelia,"dystroglycan 1",3,49468703,49535618,9,10.1002/pros.21110
+1605,"Homo sapiens",DAG1,Muscle,"dystroglycan 1",3,49468703,49535618,9,10.1016/s0092-8674(02)00907-8
+1634,"Homo sapiens",DCN,Muscle,decorin,12,91140484,91182817,9,10.1007/s12565-011-0103-0
+1642,"Homo sapiens",DDB1,Liver,"damage specific DNA binding protein 1",11,61299451,61333105,27,10.1073/pnas.1015793108
+1649,"Homo sapiens",DDIT3,Liver,"DNA damage inducible transcript 3",12,57516588,57520517,4,10.1016/j.jhep.2013.04.024
+1719,"Homo sapiens",DHFR,Nerve,"dihydrofolate reductase",5,80626226,80654983,6,10.1172/JCI40000
+1734,"Homo sapiens",DIO2,Muscle,"iodothyronine deiodinase 2",14,80197526,80231057,7,10.1152/ajpendo.00292.2011
+1755,"Homo sapiens",DMBT1,Epithelia,"deleted in malignant brain tumors 1",10,122560677,122643736,57,10.1016/s0014-5793(03)00217-5
+1756,"Homo sapiens",DMD,Muscle,dystrophin,X,31119219,33339460,89,10.1093/hmg/ddr015
+1803,"Homo sapiens",DPP4,Pancreas,"dipeptidyl peptidase 4",2,161992245,162074215,28,10.1371/journal.pone.0053345
+1950,"Homo sapiens",EGF,"Stem cell","epidermal growth factor",4,109912883,110013766,26,10.1038/nm.3070
+1956,"Homo sapiens",EGFR,Epithelia,"epidermal growth factor receptor",7,55019017,55211628,31,10.1172/JCI62888
+1956,"Homo sapiens",EGFR,"Hair cell","epidermal growth factor receptor",7,55019017,55211628,31,10.1016/j.ydbio.2011.12.035
+1956,"Homo sapiens",EGFR,Liver,"epidermal growth factor receptor",7,55019017,55211628,31,10.1016/j.jhep.2007.08.020
+1956,"Homo sapiens",EGFR,Nerve,"epidermal growth factor receptor",7,55019017,55211628,31,10.1126/science.1115462
+1956,"Homo sapiens",EGFR,"Salivary gland","epidermal growth factor receptor",7,55019017,55211628,31,10.1111/j.1432-0436.2007.00251.x
+1958,"Homo sapiens",EGR1,Liver,"early growth response 1",5,138465479,138469303,2,10.1186/1471-213X-11-28
+2000,"Homo sapiens",ELF4,Bone,"E74 like ETS transcription factor 4",X,130063955,130110891,11,10.1161/ATVBAHA.111.224436
+2017,"Homo sapiens",CTTN,Misc,cortactin,11,70398529,70436579,20,10.1016/j.devcel.2010.07.009
+2043,"Homo sapiens",EPHA4,Nerve,"EPH receptor A4",2,221418027,221574202,19,10.1016/j.neulet.2013.05.022
+2056,"Homo sapiens",EPO,Muscle,erythropoietin,7,100720468,100723700,5,10.1096/fj.11-196618
+2113,"Homo sapiens",ETS1,Kidney,"ETS proto-oncogene 1, transcription factor",11,128458765,128587593,12,10.1097/01.ASN.0000145459.54236.D3
+2146,"Homo sapiens",EZH2,Pancreas,"enhancer of zeste 2 polycomb repressive complex 2 subunit",7,148807374,148884344,25,10.1172/JCI69468
+2162,"Homo sapiens",F13A1,Skin,"coagulation factor XIII A chain",6,6144084,6320662,15,10.1016/j.jvs.2006.05.011
+2246,"Homo sapiens",FGF1,"Spinal cord","fibroblast growth factor 1",5,142592178,142698070,11,10.1523/JNEUROSCI.0758-12.2012
+2247,"Homo sapiens",FGF2,Bone,"fibroblast growth factor 2",4,122826708,122898236,3,10.1016/j.bbrc.2006.02.171
+2247,"Homo sapiens",FGF2,Muscle,"fibroblast growth factor 2",4,122826708,122898236,3,10.1371/journal.pone.0028700
+2247,"Homo sapiens",FGF2,Nerve,"fibroblast growth factor 2",4,122826708,122898236,3,10.1016/j.mcn.2003.11.007
+2247,"Homo sapiens",FGF2,Skin,"fibroblast growth factor 2",4,122826708,122898236,3,10.1002/jcp.20256
+2252,"Homo sapiens",FGF7,Pancreas,"fibroblast growth factor 7",15,49423242,49488775,4,10.1006/exmp.2002.2472
+2254,"Homo sapiens",FGF9,"Hair cell","fibroblast growth factor 9",13,21671073,21704501,4,10.1038/nm.3181
+2255,"Homo sapiens",FGF10,Pancreas,"fibroblast growth factor 10",5,44300247,44389706,3,10.1006/exmp.2002.2472
+2260,"Homo sapiens",FGFR1,Lung,"fibroblast growth factor receptor 1",8,38411143,38468635,24,10.1152/ajplung.00008.2009
+2260,"Homo sapiens",FGFR1,Muscle,"fibroblast growth factor receptor 1",8,38411143,38468635,24,10.1371/journal.pone.0028700
+2260,"Homo sapiens",FGFR1,Nerve,"fibroblast growth factor receptor 1",8,38411143,38468635,24,10.1523/JNEUROSCI.4516-08.2009
+2263,"Homo sapiens",FGFR2,Liver,"fibroblast growth factor receptor 2",10,121478330,121598458,24,10.1038/sj.onc.1206499
+2264,"Homo sapiens",FGFR4,Muscle,"fibroblast growth factor receptor 4",5,177086915,177098144,18,10.1074/jbc.M507440200
+2274,"Homo sapiens",FHL2,Muscle,"four and a half LIM domains 2",2,105357712,105438529,11,10.1002/stem.274
+2275,"Homo sapiens",FHL3,Muscle,"four and a half LIM domains 3",1,37996765,38005691,8,10.1038/sj.emboj.7601635
+2303,"Homo sapiens",FOXC2,Muscle,"forkhead box C2",16,86566829,86569728,1,10.1038/cdd.2013.34
+2305,"Homo sapiens",FOXM1,Liver,"forkhead box M1",12,2857680,2877174,11,10.1074/jbc.M207510200
+2314,"Homo sapiens",FLII,"Hair cell","FLII actin remodeling protein",17,18244815,18259022,30,10.1038/jid.2010.393
+2319,"Homo sapiens",FLOT2,Nerve,"flotillin 2",17,28879339,28897733,13,10.1016/j.nbd.2012.11.007
+2321,"Homo sapiens",FLT1,Liver,"fms related receptor tyrosine kinase 1",13,28300346,28495128,33,10.1126/science.1079562
+2323,"Homo sapiens",FLT3LG,Thymus,"fms related receptor tyrosine kinase 3 ligand",19,49474172,49487037,12,10.1182/blood-2003-11-3789
+2483,"Homo sapiens",FRG1,Muscle,"FSHD region gene 1",4,189940846,189963204,8,10.1242/jcs.121533
+2520,"Homo sapiens",GAST,Epithelia,gastrin,17,41712331,41715969,3,10.1053/j.gastro.2005.12.033
+2549,"Homo sapiens",GAB1,Liver,"GRB2 associated binding protein 1",4,143336876,143474565,19,10.1128/MCB.02253-05
+2549,"Homo sapiens",GAB1,Pancreas,"GRB2 associated binding protein 1",4,143336876,143474565,19,10.1016/j.cellsig.2005.08.013
+2596,"Homo sapiens",GAP43,Misc,"growth associated protein 43",3,115623510,115721485,4,10.1080/00016480252814162
+2596,"Homo sapiens",GAP43,Nerve,"growth associated protein 43",3,115623510,115721485,4,10.3892/mmr.2011.510
+2621,"Homo sapiens",GAS6,Liver,"growth arrest specific 6",13,113820549,113864076,15,10.1053/j.gastro.2005.08.004
+2627,"Homo sapiens",GATA6,Epithelia,"GATA binding protein 6",18,22169589,22202528,7,10.1038/ng.157
+2641,"Homo sapiens",GCG,Pancreas,glucagon,2,162142882,162152247,6,10.1038/sj.mt.6300005
+2670,"Homo sapiens",GFAP,Nerve,"glial fibrillary acidic protein",17,44903159,44915552,10,10.1242/jcs.03168
+2676,"Homo sapiens",GFRA3,Nerve,"GDNF family receptor alpha 3",5,138252380,138274621,8,10.1523/JNEUROSCI.2195-10.2010
+2690,"Homo sapiens",GHR,Liver,"growth hormone receptor",5,42423439,42721878,18,10.1210/en.2010-1193
+2690,"Homo sapiens",GHR,Muscle,"growth hormone receptor",5,42423439,42721878,18,10.1210/en.2013-1209
+2697,"Homo sapiens",GJA1,"Hair cell","gap junction protein alpha 1",6,121435646,121449727,2,10.1038/jid.2011.183
+2697,"Homo sapiens",GJA1,Muscle,"gap junction protein alpha 1",6,121435646,121449727,2,10.1242/jcs.01553
+2705,"Homo sapiens",GJB1,Nerve,"gap junction protein beta 1",X,71215239,71225516,4,10.1097/WNR.0b013e32834051c7
+2735,"Homo sapiens",GLI1,Misc,"GLI family zinc finger 1",12,57459785,57472451,13,10.1074/jbc.M112.443440
+2752,"Homo sapiens",GLUL,Pancreas,"glutamate-ammonia ligase",1,182378098,182391790,9,10.1002/jcb.24370
+2778,"Homo sapiens",GNAS,Bone,"GNAS complex locus",20,58839681,58911192,23,10.1007/s11999-012-2475-4
+2833,"Homo sapiens",CXCR3,Kidney,"C-X-C motif chemokine receptor 3",X,71615913,71618515,4,10.1186/1471-2369-5-8
+2950,"Homo sapiens",GSTP1,Liver,"glutathione S-transferase pi 1",11,67583812,67586653,7,10.1186/2047-783x-16-1-34
+3065,"Homo sapiens",HDAC1,"Hair cell","histone deacetylase 1",1,32292083,32333628,14,10.1038/jid.2013.283
+3065,"Homo sapiens",HDAC1,Kidney,"histone deacetylase 1",1,32292083,32333628,14,10.1152/ajprenal.00102.2014
+3066,"Homo sapiens",HDAC2,"Hair cell","histone deacetylase 2",6,113933028,113971148,17,10.1038/jid.2013.283
+3082,"Homo sapiens",HGF,Heart,"hepatocyte growth factor",7,81699006,81770438,20,10.1160/TH11-10-0711
+3082,"Homo sapiens",HGF,Misc,"hepatocyte growth factor",7,81699006,81770438,20,10.1007/s00005-006-0015-1
+3082,"Homo sapiens",HGF,Muscle,"hepatocyte growth factor",7,81699006,81770438,20,10.1006/bbrc.2002.6706
+3091,"Homo sapiens",HIF1A,Epithelia,"hypoxia inducible factor 1 subunit alpha",14,61695513,61748258,16,10.1210/en.2008-1333
+3091,"Homo sapiens",HIF1A,Heart,"hypoxia inducible factor 1 subunit alpha",14,61695513,61748258,16,10.1007/s12265-011-9265-3
+3091,"Homo sapiens",HIF1A,Muscle,"hypoxia inducible factor 1 subunit alpha",14,61695513,61748258,16,10.4049/jimmunol.1103779
+3162,"Homo sapiens",HMOX1,Heart,"heme oxygenase 1",22,35381096,35394207,5,10.1016/j.ejphar.2010.02.050
+3209,"Homo sapiens",HOXA13,Epithelia,"homeobox A13",7,27194364,27200091,2,10.1101/gad.1610508
+3213,"Homo sapiens",HOXB3,"Stem cell","homeobox B3",17,48548870,48590241,9,10.1128/MCB.23.11.3872-3883.2003
+3214,"Homo sapiens",HOXB4,"Stem cell","homeobox B4",17,48575507,48578350,2,10.1128/MCB.23.11.3872-3883.2003
+3290,"Homo sapiens",HSD11B1,Pancreas,"hydroxysteroid 11-beta dehydrogenase 1",1,209686179,209734929,7,10.1007/s00125-008-1137-2
+3373,"Homo sapiens",HYAL1,Muscle,"hyaluronidase 1",3,50299889,50312951,6,10.1074/jbc.M111.336925
+3458,"Homo sapiens",IFNG,Nerve,"interferon gamma",12,68154768,68159740,4,10.1371/journal.pone.0011091
+3480,"Homo sapiens",IGF1R,Nerve,"insulin like growth factor 1 receptor",15,98648539,98964530,26,10.1371/journal.pone.0054462
+3481,"Homo sapiens",IGF2,Skin,"insulin like growth factor 2",11,2129117,2149566,9,10.1111/j.0022-202X.2004.22527.x
+3482,"Homo sapiens",IGF2R,Liver,"insulin like growth factor 2 receptor",6,159969082,160111504,48,10.1016/s0168-8278(02)00378-1
+3488,"Homo sapiens",IGFBP5,Skin,"insulin like growth factor binding protein 5",2,216672105,216695549,4,10.1111/j.0022-202X.2004.22527.x
+3491,"Homo sapiens",CCN1,Endothelia,"cellular communication network factor 1",1,85580761,85583950,5,10.1182/blood-2006-07-036202
+3549,"Homo sapiens",IHH,"Stem cell","Indian hedgehog signaling molecule",2,219054424,219060921,3,10.1016/j.joca.2012.06.002
+3553,"Homo sapiens",IL1B,Bone,"interleukin 1 beta",2,112829751,112836843,7,"PMID: 24431314"
+3553,"Homo sapiens",IL1B,Nerve,"interleukin 1 beta",2,112829751,112836843,7,10.1016/j.bbrc.2007.10.198
+3553,"Homo sapiens",IL1B,Liver,"interleukin 1 beta",2,112829751,112836843,7,10.1111/j.1478-3231.2005.01080.x
+3572,"Homo sapiens",IL6ST,Heart,"interleukin 6 cytokine family signal transducer",5,55935095,55994963,19,10.1038/bjp.2008.1
+3586,"Homo sapiens",IL10,Muscle,"interleukin 10",1,206767602,206772494,7,10.4049/jimmunol.1103180
+3655,"Homo sapiens",ITGA6,Heart,"integrin subunit alpha 6",2,172427336,172506459,28,10.1634/stemcells.2007-0732
+3815,"Homo sapiens",KIT,Heart,"KIT proto-oncogene, receptor tyrosine kinase",4,54657957,54740715,21,10.1634/stemcells.2007-0732
+3815,"Homo sapiens",KIT,Muscle,"KIT proto-oncogene, receptor tyrosine kinase",4,54657957,54740715,21,10.1111/j.1582-4934.2011.01330.x
+3909,"Homo sapiens",LAMA3,Skin,"laminin subunit alpha 3",18,23689443,23955066,78,10.1016/j.ejcb.2006.07.004
+3911,"Homo sapiens",LAMA5,Skin,"laminin subunit alpha 5",20,62309060,62367318,81,10.1016/j.ejcb.2006.07.004
+3976,"Homo sapiens",LIF,Heart,"LIF interleukin 6 family cytokine",22,30240453,30257487,5,10.1074/jbc.M508969200
+3976,"Homo sapiens",LIF,Nerve,"LIF interleukin 6 family cytokine",22,30240453,30257487,5,10.1523/JNEUROSCI.3047-06.2006
+4089,"Homo sapiens",SMAD4,"Stem cell","SMAD family member 4",18,51030213,51085042,12,10.1182/blood-2012-02-408658
+4162,"Homo sapiens",MCAM,Bone,"melanoma cell adhesion molecule",11,119305759,119317130,16,10.1371/journal.pone.0076153
+4162,"Homo sapiens",MCAM,Endothelia,"melanoma cell adhesion molecule",11,119305759,119317130,16,10.1161/CIRCRESAHA.109.213827
+4233,"Homo sapiens",MET,Muscle,"MET proto-oncogene, receptor tyrosine kinase",7,116672196,116798386,24,10.1371/journal.pone.0081757
+4314,"Homo sapiens",MMP3,Cartilage,"matrix metallopeptidase 3",11,102835801,102843609,10,10.1128/MCB.01288-07
+4803,"Homo sapiens",NGF,Bone,"nerve growth factor",1,115285915,115338253,4,10.1016/j.brainres.2009.01.056
+4803,"Homo sapiens",NGF,Heart,"nerve growth factor",1,115285915,115338253,4,10.1161/CIRCRESAHA.109.210088
+4851,"Homo sapiens",NOTCH1,Epithelia,"notch receptor 1",9,136494433,136546048,34,10.1152/ajpgi.90225.2008
+4851,"Homo sapiens",NOTCH1,Pancreas,"notch receptor 1",9,136494433,136546048,34,10.1053/j.gastro.2007.11.003
+4878,"Homo sapiens",NPPA,Endothelia,"natriuretic peptide A",1,11845709,11847783,3,10.1152/ajpheart.00414.2002
+5069,"Homo sapiens",PAPPA,Bone,"pappalysin 1",9,116153752,116402321,22,10.1210/en.2004-1351
+5156,"Homo sapiens",PDGFRA,Pancreas,"platelet derived growth factor receptor alpha",4,54229127,54298245,28,10.1038/nature10502
+5697,"Homo sapiens",PYY,Pancreas,"peptide YY",17,43952733,44004445,7,10.1385/ENDO:30:1:103
+5803,"Homo sapiens",PTPRZ1,"Spinal cord","protein tyrosine phosphatase receptor type Z1",7,121873161,122062036,31,10.1186/1471-2377-9-32
+6271,"Homo sapiens",S100A1,Cartilage,"S100 calcium binding protein A1",1,153628434,153632039,3,10.1002/jcp.24547
+6285,"Homo sapiens",S100B,Cartilage,"S100 calcium binding protein B",21,46598604,46605243,3,10.1002/jcp.24547
+6469,"Homo sapiens",SHH,Epithelia,"sonic hedgehog signaling molecule",7,155799980,155812463,8,10.1038/nature01493
+6469,"Homo sapiens",SHH,Intestine,"sonic hedgehog signaling molecule",7,155799980,155812463,8,10.1111/jgh.12445
+6714,"Homo sapiens",SRC,Kidney,"SRC proto-oncogene, non-receptor tyrosine kinase",20,37344690,37406050,17,10.1016/S0002-9440(10)63651-6
+7040,"Homo sapiens",TGFB1,Skin,"transforming growth factor beta 1",19,41330323,41353922,7,10.1038/sj.jid.5700951
+7422,"Homo sapiens",VEGFA,"Spinal cord","vascular endothelial growth factor A",6,43770209,43786487,9,"PMID: 23236888"
+7448,"Homo sapiens",VTN,Skin,vitronectin,17,28367284,28370307,8,10.1111/j.0022-202X.2004.22527.x
+8425,"Homo sapiens",LTBP4,Skin,"latent transforming growth factor beta binding protein 4",19,40593166,40629820,35,10.1073/pnas.1215779110
+8626,"Homo sapiens",TP63,"Stem cell","tumor protein p63",3,189596746,189897276,17,10.1073/pnas.0503437102
+8842,"Homo sapiens",PROM1,"Stem cell","prominin 1",4,15968226,16084059,35,10.1089/scd.2006.15.839
+8857,"Homo sapiens",FCGBP,Skin,"Fc fragment of IgG binding protein",19,39863323,39934626,32,10.1002/stem.1167
+9370,"Homo sapiens",ADIPOQ,Skin,"adiponectin, C1Q and collagen domain containing",3,186842710,186858463,4,10.1111/j.1600-0765.2012.01467.x
+10135,"Homo sapiens",NAMPT,Endothelia,"nicotinamide phosphoribosyltransferase",7,106248298,106284983,11,10.1111/j.1474-9726.2009.00453.x
+10481,"Homo sapiens",HOXB13,Skin,"homeobox B13",17,48724763,48728750,2,10.1074/jbc.M505262200
+10763,"Homo sapiens",NES,Epithelia,nestin,1,156668763,156677407,4,10.14670/HH-25.177
+10979,"Homo sapiens",FERMT2,Skin,"FERM domain containing kindlin 2",14,52857271,52951050,18,10.1038/jid.2010.273
+23135,"Homo sapiens",KDM6B,Tooth,"lysine demethylase 6B",17,7834210,7854796,28,10.1038/ijos.2013.77
+23411,"Homo sapiens",SIRT1,Bone,"sirtuin 1",10,67884656,67918390,11,10.1111/j.1600-0765.2011.01394.x
+30062,"Homo sapiens",RAX,Retina,"retina and anterior neural fold homeobox",18,59267038,59273454,3,10.1002/dvg.22378
+57103,"Homo sapiens",TIGAR,Intestine,"TP53 induced glycolysis regulatory phosphatase",12,4321213,4360028,6,10.1016/j.devcel.2013.05.001
+284217,"Homo sapiens",LAMA1,Heart,"laminin subunit alpha 1",18,6941742,7117797,63,10.1634/stemcells.2007-0732
+11491,"Mus musculus",Adam17,Liver,"ADAM metallopeptidase domain 17",12,21373510,21423633,56,10.1152/ajpgi.00326.2012
+11491,"Mus musculus",Adam17,Muscle,"ADAM metallopeptidase domain 17",12,21373510,21423633,56,10.1242/jcs.125328
+11450,"Mus musculus",Adipoq,Liver,"adiponectin, C1Q and collagen domain containing",16,22965286,22976778,6,10.1016/j.bbrc.2008.10.176
+11450,"Mus musculus",Adipoq,Skin,"adiponectin, C1Q and collagen domain containing",16,22965286,22976778,6,10.1111/j.1600-0765.2012.01467.x
+11555,"Mus musculus",Adrb2,"Salivary gland","adrenoceptor beta 2",18,62310887,62313030,1,10.1111/j.1432-0436.2007.00251.x
+11576,"Mus musculus",Afp,Liver,"alpha fetoprotein",5,90638596,90656766,25,10.1016/j.ydbio.2009.09.026
+11596,"Mus musculus",Ager,Liver,"advanced glycosylation end-product specific receptor",17,34816836,34819910,40,10.1084/jem.20040934
+11596,"Mus musculus",Ager,Nerve,"advanced glycosylation end-product specific receptor",17,34816836,34819910,40,10.2337/db12-0632
+11606,"Mus musculus",Agt,Endothelia,angiotensinogen,8,125283273,125296445,5,10.1152/ajpcell.00306.2010
+11651,"Mus musculus",Akt1,Liver,"AKT serine/threonine kinase 1",12,112620255,112641318,38,10.1002/hep.22583
+11651,"Mus musculus",Akt1,Muscle,"AKT serine/threonine kinase 1",12,112620255,112641318,38,10.1074/jbc.M112.341784
+11651,"Mus musculus",Akt1,Nerve,"AKT serine/threonine kinase 1",12,112620255,112641318,38,10.1016/j.bbrc.2013.12.037
+11600,"Mus musculus",Angpt1,Kidney,"angiopoietin 1",15,42288119,42540373,11,10.1159/000345142
+11732,"Mus musculus",Ank,Tooth,"ANKH inorganic pyrophosphate transport regulator",15,27466763,27594995,17,10.1902/jop.2011.110103
+11816,"Mus musculus",Apoe,Nerve,"apolipoprotein E",7,19430034,19433113,26,10.1093/hmg/ddr147
+11839,"Mus musculus",Areg,Liver,amphiregulin,5,91287458,91296291,6,10.1016/j.jhep.2009.06.030
+11876,"Mus musculus",Artn,Nerve,artemin,4,117783359,117786960,14,10.1523/JNEUROSCI.2195-10.2010
+67855,"Mus musculus",Asprv1,Skin,"aspartic peptidase retroviral like 1",6,86605146,86606692,1,10.1038/jid.2010.54
+11793,"Mus musculus",Atg5,Liver,"autophagy related 5",10,44144354,44240287,11,10.1002/hep.27140
+11921,"Mus musculus",Atoh1,"Hair cell","atonal bHLH transcription factor 1",6,64706109,64708229,1,10.1016/j.heares.2010.03.085
+12028,"Mus musculus",Bax,Nerve,"BCL2 associated X, apoptosis regulator",7,45111121,45116322,17,10.1016/s1044-7431(03)00219-7
+12043,"Mus musculus",Bcl2,Nerve,"BCL2 apoptosis regulator",1,106465908,106642004,3,10.1016/j.brainres.2004.05.107
+12125,"Mus musculus",Bcl2l11,Liver,"BCL2 like 11",2,127967958,128004467,21,10.1016/j.bbamcr.2007.03.019
+12064,"Mus musculus",Bdnf,Nerve,"brain derived neurotrophic factor",2,109505045,109557352,14,10.1523/JNEUROSCI.1411-11.2012
+11799,"Mus musculus",Birc5,Liver,"baculoviral IAP repeat containing 5",11,117740077,117746569,6,10.1111/j.1478-3231.2008.01911.x
+12162,"Mus musculus",Bmp7,Bone,"bone morphogenetic protein 7",2,172709805,172782114,9,10.1002/jor.20973
+12266,"Mus musculus",C3,Liver,"complement C3",17,57510970,57535136,54,10.1016/j.molimm.2008.03.008
+12266,"Mus musculus",C3,"Spinal cord","complement C3",17,57510970,57535136,54,10.1016/j.neulet.2010.08.056
+12389,"Mus musculus",Cav1,Liver,"caveolin 1",6,17306334,17341451,27,10.1074/jbc.M109.072900
+12396,"Mus musculus",Cbfa2t2,Epithelia,"CBFA2/RUNX1 partner transcriptional co-repressor 2",2,154278401,154381276,27,10.1053/j.gastro.2006.06.009
+18133,"Mus musculus",Ccn3,Bone,"cellular communication network factor 3",15,54609098,54617435,5,10.1074/jbc.M113.454652
+12447,"Mus musculus",Ccne1,Liver,"cyclin E1",7,37797409,37806959,22,10.1002/hep.26584
+12772,"Mus musculus",Ccr2,Muscle,"C-C motif chemokine receptor 2",9,123901987,123913594,9,10.1152/ajpcell.00467.2003
+12505,"Mus musculus",Cd44,Kidney,"CD44 molecule (Indian blood group)",2,102641486,102732010,35,10.1038/sj.ki.5002334
+12661,"Mus musculus",Chl1,Nerve,"cell adhesion molecule L1 like",6,103487547,103727172,43,10.1002/glia.20925
+12822,"Mus musculus",Col18a1,Liver,"collagen type XVIII alpha 1 chain",10,76888012,77002382,51,10.1016/j.jss.2007.02.001
+53867,"Mus musculus",Col5a3,Bone,"collagen type V alpha 3 chain",9,20681346,20726363,109,10.1016/j.matbio.2005.03.006
+20315,"Mus musculus",Cxcl12,Pancreas,"C-X-C motif chemokine ligand 12",6,117145496,117158328,11,10.1083/jcb.200304153
+20315,"Mus musculus",Cxcl12,Skin,"C-X-C motif chemokine ligand 12",6,117145496,117158328,11,10.1111/j.1582-4934.2009.00887.x
+12765,"Mus musculus",Cxcr2,Liver,"C-X-C motif chemokine receptor 2",1,74193148,74200405,5,10.1002/hep.22471
+12766,"Mus musculus",Cxcr3,Skin,"C-X-C motif chemokine receptor 3",X,100775141,100777875,2,10.2353/ajpath.2010.090564
+12767,"Mus musculus",Cxcr4,Liver,"C-X-C motif chemokine receptor 4",1,128515936,128520030,4,10.1634/stemcells.2006-0656
+12767,"Mus musculus",Cxcr4,Pancreas,"C-X-C motif chemokine receptor 4",1,128515936,128520030,4,10.1083/jcb.200304153
+12767,"Mus musculus",Cxcr4,Skin,"C-X-C motif chemokine receptor 4",1,128515936,128520030,4,10.1016/j.ydbio.2013.07.020
+114886,"Mus musculus",Cygb,Muscle,cytoglobin,11,116536421,116545139,4,10.1073/pnas.1314962111
+13386,"Mus musculus",Dlk1,Liver,"delta like non-canonical Notch ligand 1",12,109418749,109429262,25,10.1074/jbc.M111.312751
+14082,"Mus musculus",Fadd,Liver,"Fas associated via death domain",7,144131055,144136200,2,10.3748/wjg.v11.i46.7248
+218952,"Mus musculus",Fermt2,Skin,"FERM domain containing kindlin 2",14,45696252,45767575,26,10.1038/jid.2010.273
+14165,"Mus musculus",Fgf10,Tooth,"fibroblast growth factor 10",13,118806327,118928651,11,10.1128/MCB.01439-10
+14170,"Mus musculus",Fgf15,Bone,"fibroblast growth factor 18",7,144450268,144454690,11,10.1089/ten.TEA.2010.0719
+14172,"Mus musculus",Fgf18,Liver,"fibroblast growth factor 19",11,33067430,33097400,8,10.1152/ajpgi.00337.2013
+14173,"Mus musculus",Fgf2,Lung,"fibroblast growth factor 2",3,37402495,37464257,16,10.1016/j.jtcvs.2013.07.039
+15218,"Mus musculus",Foxn1,Thymus,"forkhead box N1",11,78248403,78277384,9,10.1016/j.clim.2013.11.002
+14313,"Mus musculus",Fst,Muscle,follistatin,13,114588826,114595487,16,10.1083/jcb.200912093
+14613,"Mus musculus",Gja5,"Stem cell","gap junction protein alpha 1",3,96812009,96984732,8,10.1152/ajpcell.00458.2008
+414089,"Mus musculus",Gja6,Kidney,"gap junction protein alpha 5",X,159685112,159690048,2,10.1007/s10157-012-0687-2
+14615,"Mus musculus",Gjc1,Muscle,"gap junction protein gamma 1",11,102690405,102710526,9,10.1242/jcs.01553
+118446,"Mus musculus",Gjc3,Nerve,"gap junction protein gamma 3",5,137951723,137961360,4,10.1097/WNR.0b013e32834051c7
+14652,"Mus musculus",Glp1r,Pancreas,"glucagon like peptide 1 receptor",17,31120791,31159765,16,10.2337/diabetes.52.2.365
+14711,"Mus musculus",Gnmt,Liver,"glycine N-methyltransferase",17,47036590,47040094,12,10.1002/hep.23033
+236781,"Mus musculus",Gpr119,Pancreas,"G protein-coupled receptor 119",X,47756856,47763355,2,10.1371/journal.pone.0053345
+67839,"Mus musculus",Gpsm1,Epithelia,"G protein signaling modulator 1",2,26205527,26238249,40,10.1096/fj.10-169797
+67839,"Mus musculus",Gpsm1,Kidney,"G protein signaling modulator 1",2,26205527,26238249,40,10.1096/fj.10-169797
+56637,"Mus musculus",Gsk3b,Bone,"glycogen synthase kinase 3 beta",16,37909363,38066446,26,10.1016/j.bbrc.2013.09.126
+15182,"Mus musculus",Hdac2,"Hair cell","histone deacetylase 2",10,36850540,36877885,25,10.1038/jid.2013.283
+208727,"Mus musculus",Hdac4,Heart,"histone deacetylase 4",1,91856501,92123421,70,10.1152/ajpcell.00187.2013
+15184,"Mus musculus",Hdac5,Nerve,"histone deacetylase 5",11,102085258,102120992,99,10.1038/emboj.2012.160
+15205,"Mus musculus",Hes1,Epithelia,"hes family bHLH transcription factor 1",16,29883202,29886614,11,10.1007/s10620-010-1441-9
+15208,"Mus musculus",Hes5,Epithelia,"hes family bHLH transcription factor 5",4,155045380,155046828,5,10.1007/s10162-009-0162-2
+15208,"Mus musculus",Hes5,"Hair cell","hes family bHLH transcription factor 5",4,155045380,155046828,5,10.1016/j.heares.2010.03.085
+15234,"Mus musculus",Hgf,Bone,"hepatocyte growth factor",5,16758493,16825150,34,10.4049/jimmunol.1001238
+15234,"Mus musculus",Hgf,Muscle,"hepatocyte growth factor",5,16758493,16825150,34,10.1007/s10974-010-9209-6
+15234,"Mus musculus",Hgf,Pancreas,"hepatocyte growth factor",5,16758493,16825150,34,10.2337/db13-0333
+15289,"Mus musculus",Hmgb1,Muscle,"high mobility group box 1",5,148983512,149121299,27,10.1016/j.jvs.2012.11.071
+15460,"Mus musculus",Hr,"Hair cell","HR lysine demethylase and nuclear receptor corepressor",14,70789652,70810988,29,10.1073/pnas.0507609102
+15465,"Mus musculus",Hrh1,Bone,"histamine receptor H1",6,114374897,114460257,12,10.1016/j.cellimm.2007.02.008
+15466,"Mus musculus",Hrh2,Bone,"histamine receptor H2",13,54346148,54390199,7,10.1016/j.cellimm.2007.02.008
+15894,"Mus musculus",Icam1,Liver,"intercellular adhesion molecule 1",9,20927281,20940113,9,10.1053/gast.2003.50098
+15894,"Mus musculus",Icam1,Nerve,"intercellular adhesion molecule 1",9,20927281,20940113,9,10.1007/s00441-009-0837-3
+15901,"Mus musculus",Id1,Muscle,"inhibitor of DNA binding 1, HLH protein",2,152578171,152579330,3,10.1007/s00401-005-1049-x
+15902,"Mus musculus",Id2,Nerve,"inhibitor of DNA binding 2",12,25143798,25147139,7,10.1016/j.expneurol.2011.05.013
+15978,"Mus musculus",Ifng,Liver,"interferon gamma",10,118276951,118281797,6,10.1186/1742-2094-9-8810.1053/j.gastro.2004.08.055
+15978,"Mus musculus",Ifng,"Spinal cord","interferon gamma",10,118276951,118281797,6,10.1186/1742-2094-9-88
+15982,"Mus musculus",Ifrd1,Muscle,"interferon related developmental regulator 1",12,40251566,40298503,38,10.1128/MCB.24.8.3514-3525.2004
+15982,"Mus musculus",Ifrd1,Nerve,"interferon related developmental regulator 1",12,40251566,40298503,38,10.1111/j.1460-9568.2007.05951.x
+16000,"Mus musculus",Igf1,Skin,"insulin like growth factor 1",10,87694127,87772904,20,10.2353/ajpath.2008.071177
+16000,"Mus musculus",Igf1,Muscle,"insulin like growth factor 1",10,87694127,87772904,20,10.1128/MCB.00138-06
+16001,"Mus musculus",Igf1r,Endothelia,"insulin like growth factor 1 receptor",7,67602575,67883416,35,10.1161/ATVBAHA.114.304121
+16001,"Mus musculus",Igf1r,Liver,"insulin like growth factor 1 receptor",7,67602575,67883416,35,10.1096/fj.05-4704fje
+16001,"Mus musculus",Igf1r,Muscle,"insulin like growth factor 1 receptor",7,67602575,67883416,35,10.1210/en.2013-1209
+16002,"Mus musculus",Igf2,Pancreas,"insulin like growth factor 2",7,142204503,142220553,22,10.1371/journal.pone.0043623
+16006,"Mus musculus",Igfbp1,Liver,"insulin like growth factor binding protein 1",11,7147782,7152546,4,10.1128/MCB.23.4.1251-1259.2003
+16151,"Mus musculus",Ikbkg,Misc,"inhibitor of nuclear factor kappa B kinase regulatory subunit gamma",X,73436896,73497460,49,10.1016/j.nbd.2011.05.008
+16153,"Mus musculus",Il10,Pancreas,"interleukin 10",1,130947582,130952711,5,10.1152/ajpgi.00431.2001
+16153,"Mus musculus",Il10,Liver,"interleukin 10",1,130947582,130952711,5,10.1016/j.ajpath.2011.01.001
+16153,"Mus musculus",Il10,"Stem cell","interleukin 10",1,130947582,130952711,5,10.1634/stemcells.2007-0002
+16171,"Mus musculus",Il17a,Liver,"interleukin 17A",1,20801129,20804720,3,10.1016/j.jss.2013.03.033
+16171,"Mus musculus",Il17a,Nerve,"interleukin 17A",1,20801129,20804720,3,10.1016/j.ajpath.2010.12.001
+50929,"Mus musculus",Il22,Skin,"interleukin 22",10,118040847,118045952,5,10.4049/jimmunol.0903907
+50929,"Mus musculus",Il22,Thymus,"interleukin 22",10,118040847,118045952,5,10.1016/j.clim.2013.11.002
+16193,"Mus musculus",Il6,Liver,"interleukin 6",5,30218112,30224979,11,10.1074/jbc.M110.115147
+16193,"Mus musculus",Il6,Muscle,"interleukin 6",5,30218112,30224979,11,10.1074/jbc.M112.419788
+16193,"Mus musculus",Il6,Nerve,"interleukin 6",5,30218112,30224979,11,10.1111/j.1471-4159.2006.04257.x
+16196,"Mus musculus",Il7,Liver,"interleukin 6 cytokine family signal transducer",3,7635054,7678820,19,10.1074/jbc.M705483200
+116849,"Mus musculus",Iltifb,Bone,"interleukin 7",10,118125534,118130943,7,10.4049/jimmunol.1001238
+16331,"Mus musculus",Inpp5d,"Stem cell","inositol polyphosphate-5-phosphatase D",1,87548034,87648229,54,10.1182/blood-2002-12-3939
+384783,"Mus musculus",Irs2,Pancreas,"insulin receptor substrate 2",8,11034681,11058458,2,10.1210/en.2013-1796
+16403,"Mus musculus",Itga6,Nerve,"integrin subunit alpha 6",2,71575960,71688760,49,10.1523/JNEUROSCI.3068-08.2008
+16410,"Mus musculus",Itgav,Retina,"integrin subunit alpha V",2,83554741,83637260,49,"PMID: 16479252"
+16412,"Mus musculus",Itgb1,Nerve,"integrin subunit beta 1",8,129412135,129459681,36,10.1016/s1044-7431(02)00034-9
+15374,"Mus musculus",Jpt1,Nerve,"Jupiter microtubule associated homolog 1",11,115388179,115405213,17,10.1002/jnr.20676
+16476,"Mus musculus",Jun,Nerve,"Jun proto-oncogene, AP-1 transcription factor subunit",4,94937271,94940459,1,10.1016/j.exger.2012.02.006
+107250,"Mus musculus",Kazald1,Bone,"Kazal type serine peptidase inhibitor domain 1",19,45063680,45067728,8,10.1016/j.bbrc.2004.10.157
+16542,"Mus musculus",Kdr,Bone,"kinase insert domain receptor",5,76093487,76139118,44,10.1016/j.stem.2009.01.006
+16570,"Mus musculus",Kif3c,Nerve,"kinesin family member 3C",12,3415132,3456494,20,10.1523/JNEUROSCI.5221-12.2013
+16590,"Mus musculus",Kit,Muscle,"KIT proto-oncogene, receptor tyrosine kinase",5,75735576,75817382,41,10.1111/j.1582-4934.2011.01330.x
+16600,"Mus musculus",Klf4,Nerve,"Kruppel like factor 4",4,55527143,55532466,9,10.1038/ncomms3633
+16668,"Mus musculus",Krt18,Prostate,"keratin 18",15,101936615,101940462,7,10.1155/2013/576472
+16819,"Mus musculus",Lcn2,Kidney,"lipocalin 2",2,32274645,32278264,21,10.1152/ajprenal.90250.2008
+16846,"Mus musculus",Lep,Endothelia,leptin,6,29060219,29073876,5,10.1161/CIRCRESAHA.107.169375
+16854,"Mus musculus",Lgals3,Nerve,"galectin 3",14,47605208,47623617,18,10.1016/j.expneurol.2009.01.008
+14160,"Mus musculus",Lgr5,"Hair cell","leucine rich repeat containing G protein-coupled receptor 5",10,115286216,115423685,41,10.1242/dev.070284
+14160,"Mus musculus",Lgr5,Intestine,"leucine rich repeat containing G protein-coupled receptor 5",10,115286216,115423685,41,10.1073/pnas.1118857109
+14725,"Mus musculus",Lrp2,Nerve,"LDL receptor related protein 2",2,69254684,69416409,85,10.1523/JNEUROSCI.6012-08.2009
+108075,"Mus musculus",Ltbp4,Skin,"latent transforming growth factor beta binding protein 4",7,27004561,27037117,75,10.1073/pnas.1215779110
+17035,"Mus musculus",Lxn,Bone,latexin,3,67365331,67371259,13,10.1016/j.bbrc.2008.11.111
+26419,"Mus musculus",Mapk8,Liver,"mitogen-activated protein kinase 8",14,33099855,33169115,42,10.1172/JCI33913
+11720,"Mus musculus",Mat1a,Liver,"methionine adenosyltransferase 1A",14,40826992,40846369,14,10.1096/fj.03-1204fje
+17181,"Mus musculus",Matn2,Nerve,"matrilin 2",15,34306823,34436419,29,10.1242/jcs.040378
+94111,"Mus musculus",Mepe,Bone,"matrix extracellular phosphoglycoprotein",5,104473195,104486477,3,10.1007/s00418-004-0653-5
+17292,"Mus musculus",Mesp1,Heart,"mesoderm posterior bHLH transcription factor 1",7,79441989,79443536,2,10.1016/j.stem.2008.06.017
+17295,"Mus musculus",Met,Liver,"MET proto-oncogene, receptor tyrosine kinase",6,17463799,17573979,43,10.1002/hep.24796
+17295,"Mus musculus",Met,Muscle,"MET proto-oncogene, receptor tyrosine kinase",6,17463799,17573979,43,10.1371/journal.pone.0081757
+17295,"Mus musculus",Met,Pancreas,"MET proto-oncogene, receptor tyrosine kinase",6,17463799,17573979,43,10.2337/db13-0333
+17390,"Mus musculus",Mmp2,Nerve,"matrix metallopeptidase 2",8,93553919,93580048,23,10.1523/JNEUROSCI.0200-07.2007
+17690,"Mus musculus",Msi1,Epithelia,"musashi RNA binding protein 1",5,115567658,115593757,43,10.1007/s10620-010-1441-9
+17701,"Mus musculus",Msx1,Misc,"msh homeobox 1",5,37977829,37981927,3,10.1242/dev.00710
+14489,"Mus musculus",Mtpn,Muscle,myotrophin,6,35485841,35516823,6,10.1016/s0960-8966(02)00185-2
+17869,"Mus musculus",Myc,Epithelia,"MYC proto-oncogene, bHLH transcription factor",15,61857240,61862223,17,10.1371/journal.pone.0048704
+17869,"Mus musculus",Myc,Intestine,"MYC proto-oncogene, bHLH transcription factor",15,61857240,61862223,17,10.1016/j.devcel.2010.07.015
+17984,"Mus musculus",Ndn,"Stem cell","necdin, MAGE family member",7,61996317,62000010,1,10.1182/blood-2009-07-230292
+15531,"Mus musculus",Ndst1,Nerve,"N-deacetylase and N-sulfotransferase 1",18,60817566,60881722,26,10.1016/j.expneurol.2013.01.025
+11925,"Mus musculus",Neurog3,Pancreas,"neurogenin 3",10,61968869,61970542,5,10.1369/jhc.2009.954206
+18018,"Mus musculus",Nfatc1,"Hair cell","nuclear factor of activated T cells 1",18,80649420,80756286,18,10.1073/pnas.1320301110
+18018,"Mus musculus",Nfatc1,Kidney,"nuclear factor of activated T cells 1",18,80649420,80756286,18,10.1681/ASN.2008010094
+18033,"Mus musculus",Nfkb1,Intestine,"nuclear factor kappa B subunit 1",3,135290416,135397308,64,10.1128/IAI.06101-11
+18049,"Mus musculus",Ngf,Heart,"nerve growth factor",3,102377235,102428329,11,10.1161/CIRCRESAHA.109.210088
+18053,"Mus musculus",Ngfr,"Spinal cord","nerve growth factor receptor",11,95459644,95478561,6,10.1523/JNEUROSCI.4281-03.2004
+18128,"Mus musculus",Notch1,"Hair cell","notch receptor 1",2,26347915,26406675,53,10.1016/j.heares.2010.03.085
+18129,"Mus musculus",Notch2,Bone,"notch receptor 2",3,97920843,98057677,42,10.1172/JCI43868
+27528,"Mus musculus",Nrep,Lung,"neuronal regeneration related protein",18,33570072,33597082,11,10.1165/rcmb.2005-0475OC
+18222,"Mus musculus",Numb,Epithelia,"NUMB endocytic adaptor protein",12,83840808,83968708,40,10.1371/journal.pone.0053540
+18377,"Mus musculus",Omg,"Spinal cord","oligodendrocyte myelin glycoprotein",11,79391808,79394910,2,10.1002/dvg.20557
+30044,"Mus musculus",Opn4,Retina,"opsin 4",14,34312575,34322099,14,10.1073/pnas.0711397105
+11545,"Mus musculus",Parp1,Pancreas,"poly(ADP-ribose) polymerase 1",1,180396489,180428819,42,10.2119/molmed.2011.00458
+18504,"Mus musculus",Pax2,"Hair cell","paired box 2",19,44744484,44826310,17,10.1038/srep02996
+18508,"Mus musculus",Pax6,Epithelia,"paired box 6",2,105499245,105527709,71,10.1002/cne.22463
+11994,"Mus musculus",Pcdh15,"Hair cell","protocadherin related 15",10,72935174,74485569,124,10.1523/JNEUROSCI.1949-10.2010
+18538,"Mus musculus",Pcna,Epithelia,"proliferating cell nuclear antigen",2,132091082,132095234,17,10.1080/01926230701302558
+18548,"Mus musculus",Pcsk1,Pancreas,"proprotein convertase subtilisin/kexin type 1",13,75237945,75282980,21,10.4161/isl.2.3.11396
+13026,"Mus musculus",Pcyt1a,Liver,"phosphate cytidylyltransferase 1A, choline",16,32249739,32293888,28,10.1139/y2012-116
+18595,"Mus musculus",Pdgfra,Pancreas,"platelet derived growth factor receptor alpha",5,75312953,75358876,39,10.1038/nature10502
+18609,"Mus musculus",Pdx1,Liver,"pancreatic and duodenal homeobox 1",5,147206769,147212658,2,10.1016/j.surg.2004.05.024
+18609,"Mus musculus",Pdx1,Pancreas,"pancreatic and duodenal homeobox 1",5,147206769,147212658,2,10.1097/MPA.0b013e318157753e
+18708,"Mus musculus",Pik3r1,Pancreas,"phosphoinositide-3-kinase regulatory subunit 1",13,101817071,101904725,29,10.1053/j.gastro.2005.03.016
+18712,"Mus musculus",Pim1,Heart,"Pim-1 proto-oncogene, serine/threonine kinase",17,29709727,29715086,22,10.1161/CIRCRESAHA.109.208629
+11520,"Mus musculus",Plin2,Liver,"perilipin 2",4,86566623,86588297,24,10.1016/j.jhep.2013.07.025
+53892,"Mus musculus",Ppm1d,Epithelia,"protein phosphatase, Mg2+/Mn2+ dependent 1D",11,85202070,85237892,8,10.4049/jimmunol.1300363
+18760,"Mus musculus",Prkd1,Skin,"protein kinase D1",12,50388014,50695881,19,10.1074/jbc.M110.105619
+18933,"Mus musculus",Prrx1,Skin,"paired related homeobox 1",1,163072688,163141279,17,10.1038/jid.2011.223
+19211,"Mus musculus",Pten,Epithelia,"phosphatase and tensin homolog",19,32734897,32803560,17,10.1016/j.neuroscience.2010.08.024
+19211,"Mus musculus",Pten,Pancreas,"phosphatase and tensin homolog",19,32734897,32803560,17,10.1128/MCB.26.7.2772-2781.2006
+14764,"Mus musculus",Ptgdr2,"Hair cell","prostaglandin D2 receptor 2",19,10914524,10919875,3,10.1038/jid.2012.398
+19215,"Mus musculus",Ptgds,Skin,"prostaglandin D2 synthase",2,25356721,25360058,19,10.1038/jid.2012.398
+19225,"Mus musculus",Ptgs2,Bone,"prostaglandin-endoperoxide synthase 2",1,149975782,149983978,13,10.1007/s00223-009-9282-2
+14083,"Mus musculus",Ptk2,Intestine,"protein tyrosine kinase 2",15,73076951,73295129,95,10.1016/j.devcel.2010.07.015
+19242,"Mus musculus",Ptn,"Stem cell",pleiotrophin,6,36691864,36787155,7,10.1038/nm.2119
+217212,"Mus musculus",Pyy,Pancreas,"peptide YY",11,101997502,101998658,10,10.1385/ENDO:30:1:103
+19645,"Mus musculus",Rb1,"Hair cell","RB transcriptional corepressor 1",14,73421113,73563262,40,10.1523/JNEUROSCI.5989-09.2010
+19692,"Mus musculus",Reg1,Pancreas,"regenerating family member 1 alpha",6,78399694,78405650,10,10.1177/1535370213493715
+30053,"Mus musculus",Reg3d,Pancreas,"regenerating family member 1 beta",6,78352857,78355848,7,10.4049/jimmunol.1001596
+11848,"Mus musculus",Rhoa,Muscle,"ras homolog family member A",9,108183328,108215133,14,10.1096/fj.13-233460
+19892,"Mus musculus",Rpe65,Retina,"retinoid isomerohydrolase RPE65",3,159304812,159330958,22,10.1073/pnas.1008769107
+20130,"Mus musculus",Rras,Endothelia,"RAS related",7,44667385,44671071,12,10.1038/nm1324
+68585,"Mus musculus",Rtn4,"Spinal cord","reticulon 4",11,29642947,29694331,26,10.1523/JNEUROSCI.1864-09.2009
+14739,"Mus musculus",S1pr2,Muscle,"sphingosine-1-phosphate receptor 2",9,20873657,20888077,8,10.1152/japplphysiol.00300.2012
+212712,"Mus musculus",Satb2,Bone,"SATB homeobox 2",1,56833140,57017809,20,10.1089/ten.TEA.2010.0503
+22287,"Mus musculus",Scgb1a1,Epithelia,"secretoglobin family 1A member 1",19,9061000,9065322,3,10.1371/journal.pone.0048451
+16923,"Mus musculus",Sh2b3,Endothelia,"SH2B adaptor protein 3",5,121953551,121975709,25,10.1161/CIRCRESAHA.108.192856
+20423,"Mus musculus",Shh,Bone,"sonic hedgehog signaling molecule",5,28661813,28672254,3,10.1089/ten.TEA.2010.0048
+20423,"Mus musculus",Shh,Epithelia,"sonic hedgehog signaling molecule",5,28661813,28672254,3,10.1038/labinvest.2012.148
+27401,"Mus musculus",Skp2,"Stem cell","S-phase kinase associated protein 2",15,9112073,9155512,21,10.1182/blood-2010-11-321521
+17126,"Mus musculus",Smad2,Nerve,"SMAD family member 2",18,76374651,76444034,25,10.1523/JNEUROSCI.5321-12.2013
+17126,"Mus musculus",Smad2,Misc,"SMAD family member 2",18,76374651,76444034,25,10.1177/0022034512451449
+20588,"Mus musculus",Smarcc1,Prostate,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1",9,109946776,110069246,66,10.1128/MCB.25.12.4841-4852.2005
+319757,"Mus musculus",Smo,Epithelia,"smoothened, frizzled class receptor",6,29735502,29761364,13,10.1172/JCI66904
+12703,"Mus musculus",Socs1,Liver,"suppressor of cytokine signaling 1",16,10600104,10603400,3,10.1016/j.jhep.2007.08.020
+12702,"Mus musculus",Socs3,Liver,"suppressor of cytokine signaling 3",11,117856905,117860873,6,10.1016/j.bbrc.2005.10.171
+12702,"Mus musculus",Socs3,Nerve,"suppressor of cytokine signaling 3",11,117856905,117860873,6,10.1016/j.neuron.2009.11.021
+20674,"Mus musculus",Sox2,Epithelia,"SRY-box transcription factor 2",3,34704554,34706610,1,10.1002/cne.22463
+20682,"Mus musculus",Sox9,Cartilage,"SRY-box transcription factor 9",11,112673050,112678586,3,10.1093/ejo/cjp163
+20682,"Mus musculus",Sox9,"Hair cell","SRY-box transcription factor 9",11,112673050,112678586,3,10.1242/dev.070284
+20750,"Mus musculus",Spp1,Bone,"secreted phosphoprotein 1",5,104582984,104588916,21,10.1002/jcp.21443
+20849,"Mus musculus",Stat4,"Spinal cord","signal transducer and activator of transcription 4",1,52026307,52146348,34,10.1097/WNR.0b013e328011516a
+20852,"Mus musculus",Stat6,"Spinal cord","signal transducer and activator of transcription 6",10,127478855,127496826,31,10.1097/WNR.0b013e328011516a
+100226,"Mus musculus",Stx12,Nerve,"syntaxin 12",4,132580812,132611820,14,10.1074/jbc.M113.536607
+100040972,"Mus musculus",Tceal7,Muscle,"transcription elongation factor A like 7",X,135115528,135126849,6,10.1042/BJ20091906
+21413,"Mus musculus",Tcf4,"Hair cell","transcription factor 4",18,69476427,69822150,153,10.1242/dev.070284
+21687,"Mus musculus",Tek,Bone,"TEK receptor tyrosine kinase",4,94627526,94763213,31,10.1002/stem.1275
+21687,"Mus musculus",Tek,Lung,"TEK receptor tyrosine kinase",4,94627526,94763213,31,10.1007/s00109-013-1063-8
+21752,"Mus musculus",Tert,Pancreas,"telomerase reverse transcriptase",13,73775030,73797962,45,10.1371/journal.pone.0017122
+21803,"Mus musculus",Tgfb1,Cartilage,"transforming growth factor beta 1",7,25386427,25404502,17,10.1089/ten.2005.11.1516
+21803,"Mus musculus",Tgfb1,Epithelia,"transforming growth factor beta 1",7,25386427,25404502,17,10.2353/ajpath.2009.080295
+21803,"Mus musculus",Tgfb1,Lymph,"transforming growth factor beta 1",7,25386427,25404502,17,10.1152/ajpheart.00879.2008
+21803,"Mus musculus",Tgfb1,Pancreas,"transforming growth factor beta 1",7,25386427,25404502,17,10.1097/01.tp.0000161223.54452.a2
+21812,"Mus musculus",Tgfbr1,Tooth,"transforming growth factor beta receptor 1",4,47353222,47414931,20,10.1128/MCB.01439-10
+21826,"Mus musculus",Thbs2,Bone,"thrombospondin 2",17,14885762,14914497,25,10.1002/jor.22302
+319801,"Mus musculus",Tigar,Intestine,"TP53 induced glycolysis regulatory phosphatase",6,127062079,127086520,11,10.1016/j.devcel.2013.05.001
+142980,"Mus musculus",Tlr3,Muscle,"toll like receptor 3",8,45848702,45864117,24,10.1002/mus.21959
+142980,"Mus musculus",Tlr3,Nerve,"toll like receptor 3",8,45848702,45864117,24,10.1523/JNEUROSCI.4290-06.2007
+21898,"Mus musculus",Tlr4,Kidney,"toll like receptor 4",4,66745821,66848521,11,10.1681/ASN.2013050528
+21926,"Mus musculus",Tnf,"Spinal cord","tumor necrosis factor",17,35418357,35420983,6,10.1097/WNR.0b013e328011516a
+21943,"Mus musculus",Tnfsf11,Epithelia,"TNF superfamily member 11",14,78514885,78545483,5,10.1007/s00418-005-0751-z
+22059,"Mus musculus",Trp53,Intestine,"tumor protein p53",11,69471185,69482699,24,10.1158/1541-7786.MCR-11-0052
+22099,"Mus musculus",Tsn,"Stem cell",translin,1,118222508,118239469,18,10.1248/bpb.31.207
+22323,"Mus musculus",Vasp,Kidney,"vasodilator stimulated phosphoprotein",7,18990854,19005742,23,10.1681/ASN.2004070591
+22339,"Mus musculus",Vegfa,Pancreas,"vascular endothelial growth factor A",17,46327919,46343295,28,"PMID: 15613744"
+22346,"Mus musculus",Vhl,Lung,"von Hippel-Lindau tumor suppressor",6,113600920,113608594,10,10.1007/s00109-013-1063-8
+65114,"Mus musculus",Vps35,Retina,"VPS35 retromer complex component",8,85987021,86026431,26,10.1186/1756-6606-7-10
+22370,"Mus musculus",Vtn,Retina,vitronectin,11,78389917,78393150,18,"PMID: 16479252"
+22408,"Mus musculus",Wnt1,Epithelia,"Wnt family member 1",15,98687738,98691718,4,10.1038/ng.157
+22410,"Mus musculus",Wnt10b,"Hair cell","Wnt family member 10B",15,98668593,98676031,21,10.1038/jid.2012.235
+22416,"Mus musculus",Wnt3a,Retina,"Wnt family member 3A",11,59138859,59181578,4,10.1523/JNEUROSCI.4193-06.2007
+22421,"Mus musculus",Wnt7a,Epithelia,"Wnt family member 7A",6,91340963,91388345,8,10.1210/en.2011-1826
+22422,"Mus musculus",Wnt7b,Epithelia,"Wnt family member 7B",15,85419638,85466674,15,10.1073/pnas.0912228107
+22433,"Mus musculus",Xbp1,Pancreas,"X-box binding protein 1",11,5470659,5475893,15,10.1053/j.gastro.2011.06.045
+22601,"Mus musculus",Yap1,Heart,"Yes1 associated transcriptional regulator",9,7932000,8004597,28,10.1073/pnas.1313192110
+22601,"Mus musculus",Yap1,Intestine,"Yes1 associated transcriptional regulator",9,7932000,8004597,28,10.1038/nature11693
+689404,"Rattus norvegicus",Amtn,Epithelia,amelotin,14,21286510,21299068,9,10.22203/ecm.v020a32
+84010,"Rattus norvegicus",Dll1,Kidney,"delta like canonical Notch ligand 1",1,57318708,57327379,11,10.1038/ki.2008.74
+266706,"Rattus norvegicus",Gjc1,Muscle,"gap junction protein gamma 1",10,90781402,90912287,5,10.1152/ajpcell.00458.2008
+689710,"Rattus norvegicus",Heg1,Kidney,"heart development protein with EGF like domains 1",11,70236888,70322690,18,10.1038/ki.2008.74
+29577,"Rattus norvegicus",Hes1,Intestine,"hes family bHLH transcription factor 1",11,74312806,74315248,4,10.1371/journal.pone.0076274
+29567,"Rattus norvegicus",Hes2,Kidney,"hes family bHLH transcription factor 2",5,169338097,169339142,4,10.1038/ki.2008.74
+24471,"Rattus norvegicus",Hspb1,Tooth,"heat shock protein family B (small) member 1",12,23839399,23841049,3,10.1093/jmicro/52.6.581
+24482,"Rattus norvegicus",Igf1,Retina,"insulin like growth factor 1",7,28412198,28486609,10,10.1016/j.neuint.2007.01.011
+29200,"Rattus norvegicus",Inhba,Kidney,"inhibin subunit beta A",17,51898217,51912496,3,10.1097/01.asn.0000035086.93977.e9
+29147,"Rattus norvegicus",Jag2,Intestine,"jagged canonical Notch ligand 2",6,137711155,137733026,25,10.1371/journal.pone.0076274
+287828,"Rattus norvegicus",Jpt1,Nerve,"Jupiter microtubule associated homolog 1",10,104057697,104075777,5,10.1002/jnr.20676
+85248,"Rattus norvegicus",Kif3c,Nerve,"kinesin family member 3C",6,27768943,27815611,8,10.1523/JNEUROSCI.5221-12.2013
+64030,"Rattus norvegicus",Kit,Muscle,"KIT proto-oncogene, receptor tyrosine kinase",14,35072108,35149610,24,10.1111/j.1582-4934.2011.01330.x
+306071,"Rattus norvegicus",Lcp1,Pancreas,"lymphocyte cytosolic protein 1",15,57221292,57277811,19,10.1039/c1mb05326d
+25608,"Rattus norvegicus",Lep,Liver,leptin,4,56337695,56351818,3,10.12659/MSMBR.889591
+83781,"Rattus norvegicus",Lgals3,Kidney,"galectin 3",15,24141651,24165537,13,10.14670/HH-25.1417
+116590,"Rattus norvegicus",Mapk1,"Salivary gland","mitogen-activated protein kinase 1",11,88211599,88273254,9,10.1111/j.1432-0436.2007.00251.x
+50689,"Rattus norvegicus",Mapk3,"Salivary gland","mitogen-activated protein kinase 3",1,198192773,198198975,9,10.1111/j.1432-0436.2007.00251.x
+299996,"Rattus norvegicus",Matn2,Liver,"matrilin 2",7,72985495,73207695,18,10.1016/j.matbio.2007.04.007
+81517,"Rattus norvegicus",Mdk,Nerve,midkine,3,80841005,80842916,5,10.1016/j.jns.2009.05.026
+81517,"Rattus norvegicus",Mdk,Muscle,midkine,3,80841005,80842916,5,10.1016/j.acthis.2006.04.003
+81686,"Rattus norvegicus",Mmp2,Bone,"matrix metallopeptidase 2",19,15542765,15570611,13,10.1007/s10735-007-9152-z
+81687,"Rattus norvegicus",Mmp9,Bone,"matrix metallopeptidase 9",3,161413298,161421520,18,10.1007/s10735-007-9152-z
+79215,"Rattus norvegicus",Mtpn,Muscle,myotrophin,4,63012011,63039422,4,10.1016/s0960-8966(02)00185-2
+81733,"Rattus norvegicus",Nell1,Bone,"neural EGFL like 1",1,105349069,106218958,20,10.1097/PRS.0b013e3181fed5ae
+500137,"Rattus norvegicus",Neurod6,Nerve,"neuronal differentiation 6",4,85911861,85915099,2,10.1111/j.1471-4159.2004.02814.x
+366214,"Rattus norvegicus",Nkx2-2,Pancreas,"NK2 homeobox 2",3,141408798,141411170,2,10.4161/cc.19928
+641555,"Rattus norvegicus",Odam,Epithelia,"odontogenic, ameloblast associated",14,21842990,21852216,12,10.22203/ecm.v020a32
+24628,"Rattus norvegicus",Pdgfb,Kidney,"platelet derived growth factor subunit B",7,121214628,121232741,7,10.1016/S0002-9440(10)63651-6
+313488,"Rattus norvegicus",Reck,Bone,"reversion inducing cysteine rich protein with kazal motifs",5,59348639,59415135,23,10.1007/s10735-007-9152-z
+300260,"Rattus norvegicus",Sp7,Tooth,"Sp7 transcription factor",7,143958858,143967484,4,10.1007/s00418-013-1076-y
+25557,"Rattus norvegicus",Star,Kidney,"steroidogenic acute regulatory protein",16,71036204,71040847,7,"PMID: 18425351"
+24806,"Rattus norvegicus",Tac1,Bone,"tachykinin precursor 1",4,33638709,33646819,9,10.1002/jor.21169
+679869,"Rattus norvegicus",Tcf7l2,Pancreas,"transcription factor 7 like 2",1,276659542,276730514,10,10.1152/ajpendo.00538.2009
+83785,"Rattus norvegicus",Vegfa,Bone,"vascular endothelial growth factor A",9,17340341,17355681,12,10.1359/jbmr.060120
+83785,"Rattus norvegicus",Vegfa,Kidney,"vascular endothelial growth factor A",9,17340341,17355681,12,10.1159/000345142
+83785,"Rattus norvegicus",Vegfa,Thymus,"vascular endothelial growth factor A",9,17340341,17355681,12,10.1016/j.bbamcr.2007.05.006
+303181,"Rattus norvegicus",Wnt3a,Retina,"Wnt family member 3A",10,45598912,45638035,4,10.1523/JNEUROSCI.4193-06.2007
+84426,"Rattus norvegicus",Wnt4,Kidney,"Wnt family member 4",5,155649217,155672579,7,10.1097/01.asn.0000060577.94532.06
+503736,"Danio rerio",apobec2a,Retina,"apolipoprotein B mRNA editing enzyme catalytic subunit 2",22,641342,651719,3,10.1523/JNEUROSCI.5603-11.2012
+30291,"Danio rerio",cdh2,Retina,"cadherin 2",20,17581881,17819238,37,10.1242/dev.090738
+406586,"Danio rerio",fam53b,Bone,"family with sequence similarity 53 member B",12,46883785,46937956,10,10.1016/j.ydbio.2008.09.032
+30705,"Danio rerio",fgfr1a,Retina,"fibroblast growth factor receptor 1",8,51430597,51524453,40,10.1371/journal.pone.0030365
+567861,"Danio rerio",gfpt1,Skin,"glutamine--fructose-6-phosphate transaminase 1",8,49975160,50037559,22,10.1371/journal.pgen.0030088
+321622,"Danio rerio",hmgb1a,"Spinal cord","high mobility group box 1",10,36026576,36032038,11,10.1007/s12035-013-8533-4
+402941,"Danio rerio",insm1a,Retina,"INSM transcriptional repressor 1",20,48482925,48485354,2,10.1038/ncb2586
+30256,"Danio rerio",kita,"Stem cell","KIT proto-oncogene, receptor tyrosine kinase",20,22335511,22378401,23,10.1242/dev.088112
+30277,"Danio rerio",mdka,Retina,midkine,7,39166460,39178198,16,10.1002/cne.21999
+406795,"Danio rerio",mtrex,Skin,"Mtr4 exosome RNA helicase",10,8197827,8266094,30,10.1371/journal.pgen.0030088
+30716,"Danio rerio",raf1a,"Hair cell","Raf-1 proto-oncogene, serine/threonine kinase",23,4709607,4747277,37,10.1097/WNR.0b013e32835e3279
+378723,"Danio rerio",sox2,"Hair cell","SRY-box transcription factor 2",22,37347896,37349967,1,10.1016/j.ydbio.2009.12.011
+30767,"Danio rerio",stat3,Heart,"signal transducer and activator of transcription 3",3,17030665,17107445,24,10.1073/pnas.1309810110
+30767,"Danio rerio",stat3,Retina,"signal transducer and activator of transcription 3",3,17030665,17107445,29,10.1002/cne.23213
+558148,"Danio rerio",tcf21,Heart,"transcription factor 21",23,31554269,31555696,4,10.1242/dev.067041
+359834,"Danio rerio",tgfb1a,Heart,"transforming growth factor beta 1",15,2776506,2803313,7,10.1242/dev.078543
+397447,"Sus scrofa",ROCK1,Endothelia,"Rho associated coiled-coil containing protein kinase 1",6,106163903,106314944,33,10.1161/01.ATV.0000105053.46994.5B
+395615,Chicken,SHH,Retina,"sonic hedgehog signaling molecule",2,576891,629421,3,10.1002/dvdy.21115
+397445,"Sus scrofa",ROCK2,Endothelia,"Rho associated coiled-coil containing protein kinase 2",3,125353119,125491963,36,10.1161/01.ATV.0000105053.46994.5B
+426903,Chicken,VANGL2,Epithelia,"VANGL planar cell polarity protein 2",25,2442218,2446961,10,10.1007/s10162-010-0209-4
+101114163,Sheep,EGLN1,Bone,"egl-9 family hypoxia inducible factor 1",25,4126144,4173974,6,10.1007/s11999-012-2475-4
