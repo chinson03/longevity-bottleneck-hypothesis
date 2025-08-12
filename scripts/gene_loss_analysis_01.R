@@ -10,6 +10,7 @@ library(jsonlite)
 library(tidyr)
 library(purrr)
 library(xml2)
+library(XML)
 ## Lifespan + Ageing traits
 anage <- read.delim("data/anage_data.txt")
 
@@ -43,22 +44,48 @@ write.csv(regen_traits, "data/regen_traits.csv", row.names = FALSE)
 ## Separating amphibians for https://amphibiaweb.org/
 ## https://amphibiaweb.org/amphib_dump.xml
 amphibians <- read_xml("data/amphib_dump.xml")
-## Take species nodes
-species_nodes <- xml_find_all(amphibians, ".//species")
-## Extract text if present
-get_node_text <- function(node, xpath) {
-  child <- xml_find_first(node, xpath)
-  if (length(child) > 0) xml_text(child) else NA_character_
-}
 
-xml_structure(amphibians)
+GenusList <- xml_text(xml_find_all(amphibians, ".//genus"))
+GenusList <- gsub("\n", "", GenusList)
+
+SpeciesList <- xml_text(xml_find_all(amphibians, ".//specificepithet"))
+SpeciesList <- gsub("\n", "", SpeciesList)
+
+DescriptionList <- xml_text(xml_find_all(amphibians, ".//description"))
+DescriptionList <- gsub("\n", "", DescriptionList)
+
+amphib_df <- data.frame(Genus = GenusList, Species = SpeciesList, Description = DescriptionList, stringsAsFactors = FALSE)
+amphib_df$regen_present <- ifelse(grepl("regenerat", amphib_df$Description, ignore.case = TRUE), 1, 0)
+amphib_df[amphib_df$regen_present == 1, ]
+sum(amphib_df$regen_present)
+
+## 15 Amphibians with "regenerate/regeneration" in description
+## Are these spp. present in anage database?
+anage_amphib <- anage[anage$Class == "Amphibia", ]
+anage_amphib$regen_present <- 
+sum(anage_amphib$regen_present)
+
+anage_amphib$full_name <- paste(anage_amphib$Genus, anage_amphib$Species)
+amphib_df$full_name    <- paste(amphib_df$Genus, amphib_df$Species)
+
+common_species <- intersect(anage_amphib$full_name, amphib_df$full_name)
+
+common_df <- data.frame(
+  Genus   = sub(" .*", "", common_species),      # take text before first space
+  Species = sub("^[^ ]+ ", "", common_species),  # take text after first space
+  stringsAsFactors = FALSE
+)
+
+common_df
+
+merged_df <- merge(anage_amphib, amphib_df,
+                   by = c("Genus", "Species"))
+
+merged_df
+sum(merged_df$regen_present)  # from anage only 1
 
 
 
-amphibians <- regen_traits[regen_traits$X.class.....anage.Class == "Amphibia",]
-
-
-
-
+## Searching reptiles for regeneration keyword
 ## Reptiles from https://reptile-database.reptarium.cz/search?search=regeneration&submit=Search
 
