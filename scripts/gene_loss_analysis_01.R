@@ -11,6 +11,7 @@ library(tidyr)
 library(purrr)
 library(xml2)
 library(XML)
+
 ## Lifespan + Ageing traits
 anage <- read.delim("data/anage_data.txt")
 
@@ -57,12 +58,14 @@ DescriptionList <- gsub("\n", "", DescriptionList)
 amphib_df <- data.frame(Genus = GenusList, Species = SpeciesList, Description = DescriptionList, stringsAsFactors = FALSE)
 amphib_df$regen_present <- ifelse(grepl("regenerat", amphib_df$Description, ignore.case = TRUE), 1, 0)
 amphib_df[amphib_df$regen_present == 1, ]
-sum(amphib_df$regen_present)
+sum
 
 ## 15 Amphibians with "regenerate/regeneration" in description
 ## Are these spp. present in anage database?
 anage_amphib <- anage[anage$Class == "Amphibia", ]
-anage_amphib$regen_present <- 
+anage_amphib$regen_present
+
+
 sum(anage_amphib$regen_present)
 
 anage_amphib$full_name <- paste(anage_amphib$Genus, anage_amphib$Species)
@@ -86,6 +89,8 @@ sum(merged_df$regen_present)  # from anage only 1
 
 
 
+
 ## Searching reptiles for regeneration keyword
 ## Reptiles from https://reptile-database.reptarium.cz/search?search=regeneration&submit=Search
+## Downloaded entire database, converted to csv
 
