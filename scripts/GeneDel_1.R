@@ -13,9 +13,8 @@ library("dplyr")
 ## Make simple jitter plot of max. longevity vs. clade
 ## import
 drugage <- read.csv("drugage.csv", header = TRUE)
-drugage$year <- 
 
-  get_pub_year <- function(pmid) {
+get_pub_year <- function(pmid) {
     # Fetch the summary
     summary <- entrez_summary(db = "pubmed", id = pmid)
     

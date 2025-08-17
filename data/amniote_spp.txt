@@ -1,0 +1,83 @@
+Ornithorhynchus anatinus
+Kryptobaatar dashzevegi
+Macropus rufus
+Elephas asiaticus
+Oreodon culbertsoni
+Maiacetus inuus
+Homo sapiens
+Mesosaurus tenuidens
+Neusticosaurus peyeri
+Lariosaurus sp.
+Keichosaurus hui
+Dolichorhynchops osborni
+Polycotylus latipinnus
+Chaohusaurus geishanensis
+Mixosaurus sp.
+Besanosaurus leptorhynchus
+Shonisaurus popularis
+Qianichthyosaurus zhoui
+Temnodontosaurus Sp.
+Leptonectes tenuirostris
+Ichthyosaurus communis
+Stenopterygius quadriscissus
+Stenopterygius triscissus
+Maiaspondylus lindoei
+Platypterygius australis
+Platypterygius longmani
+Sphenodon punctatus
+Yabeinosaurus tenuis
+Diplodactylus vittatus 
+Anepischetosia maccoyi
+Podarcis siculus
+Elaphe guttata
+Carsosaurus marchesetti
+Plioplatecarpus primaevus
+Phu Phok Embryo
+Diploglossus delasagra
+Furcifer lateralis
+Sceloporus clarkii
+Sceloporus scalaris
+Pelusios sinuatus
+Acanthochelys radiolata
+Pelodiscus sinesis
+Adocus sp.
+Chelonoidis carbonaria
+Kinosternon baurii
+Caretta caretta
+Desmatochelys padillai
+Dinocephalosaurus orientalis
+Philydrosaurus proseilus
+Ikechosaurus sp.
+Monjurosuchus splendens
+Alligator mississippiensis
+Crocodylus niloticus
+Pterodaustro guinazui
+Hamipterus tianshanensis
+Pterodactyloid
+Ornithocheirid
+Protoceratops andrewsi
+Maiasaura peeblesorum
+Telmatosaurus transsylvanicus
+Massospondylus carinatus
+Mussaurus patagonicus
+Saltasaurid
+Titanosaurian
+Sinosauropteryx
+Oviraptor philoceratops
+Heyuannia huangi
+Deinonychus antirrhopus
+Microtroodontid
+Troodontid
+Enantiornithine
+Gobipipus reshetovi
+Struthio camelus
+Casuarius casuarius
+Gallus gallus
+Anas platyrhynchos
+Phoenicopterus ruber
+Columba palumbis
+Strix nebulosa
+Passer domesticus
+
+Seymouria baylorensis
+Diadectes sideropelicus

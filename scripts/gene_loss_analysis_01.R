@@ -2,15 +2,7 @@
 ## Charlie Hinson 6/8/25
 
 ##libraries
-library(ggplot2)
-library(ggtree)
-library(rvest)
-library(httr)
-library(jsonlite)
-library(tidyr)
-library(purrr)
-library(xml2)
-library(XML)
+library(ggplot2, ggtree, rvest, httr, jsonlite, tidyr, purrr, XML, caper)
 
 ## Lifespan + Ageing traits
 anage <- read.delim("data/anage_data.txt")
