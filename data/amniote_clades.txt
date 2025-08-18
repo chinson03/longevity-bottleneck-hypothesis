@@ -11,3 +11,6 @@ Crocodylia
 Pterosauria
 Dinosauria
 Aves
+
+Outgroup for FBD
+‘*’ indicates extinct species; ‘-’ indicates inapplicable and ‘?’ indicates unknown state
